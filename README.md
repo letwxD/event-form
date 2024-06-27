@@ -6,3 +6,5 @@ Este projeto é um formulário web para a criação e compartilhamento de evento
 
 - HTML5
 - CSS3
+
+<img src="https://imgur.com/orEZQrV">
